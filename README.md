@@ -9,7 +9,7 @@ Elithの生成AI勉強会用のリポジトリです。
 時間: 17:30 から
 
 ### やり方
-発表者は、興味のあるトピックについて、このレポジトリのissueにまとめてください。
+発表者は、興味のあるトピックについて、このレポジトリのissueにまとめてください。  
 そして、勉強会当日はissueを元に発表を行って下さい。
 
 ※ 当勉強会は、[wantedlyの輪講会](https://github.com/wantedly/machine-learning-round-table)を参考にしています。
